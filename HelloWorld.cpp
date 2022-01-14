@@ -16,6 +16,13 @@ int main()
 
     */
 
+
+    /*
+
+    ovo je sada subvarijanta varijante 1
+    */
+
+
     for (const string& word : msg)
     {
         cout << word << " ";
