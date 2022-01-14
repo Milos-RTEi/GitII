@@ -22,6 +22,12 @@ int main()
     ovo je sada subvarijanta varijante 1
     */
 
+    /*
+
+    ovo sada dodajemo u WorkFlow-1
+
+    */
+
 
     for (const string& word : msg)
     {
