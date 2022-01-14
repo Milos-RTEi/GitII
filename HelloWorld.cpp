@@ -10,6 +10,12 @@ int main()
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"}
     // ovo je bila greska
 
+    /*
+
+    dodali smo ovde jos koda -----
+
+    */
+
     for (const string& word : msg)
     {
         cout << word << " ";
