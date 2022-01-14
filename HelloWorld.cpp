@@ -29,6 +29,14 @@ int main()
     */
 
 
+    /*
+
+    ovo sada dodajemo u WorkFlow-1-1
+    ovo sada dodajemo u WorkFlow-1-1 num.2
+
+    */
+
+
     for (const string& word : msg)
     {
         cout << word << " ";
