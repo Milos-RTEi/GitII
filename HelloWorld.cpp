@@ -12,7 +12,7 @@ int main()
 
     /*
 
-    dodali smo ovde jos koda -----
+    dodali smo ovde jos koda -----AAAA
 
     */
 
